@@ -6,6 +6,6 @@ This Project is tested on centOS server.
 
 Execute using cronjob.
 
-python cronjob.py
+    python cronjob.py
 
 Currently, the script is executed once every 10 minutes.
